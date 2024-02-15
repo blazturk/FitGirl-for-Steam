@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "FitGirl For Steam",
+  "description": "A Chrome extension for easy access to 'backing-up' Steam titles",
+  "version": "1.0",
+  "permissions": ["activeTab"],
+  "action": {
+    "default_popup": "index.html"
+  },
+  "background": {
+    "service_worker": "eventPage.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["*://store.steampowered.com/*"],
+      "js": ["content_script.js"]
+    }
+  ]
+}

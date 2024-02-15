@@ -1,0 +1,17 @@
+body{
+    background:linear-gradient(120deg, #42047E, #07F49E);
+    display:flex;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    border-radius: 10%;
+}
+
+h1, h2, p{
+    color: white;
+    font-family: "Montserrat", sans-serif;
+}
+
+.content{
+    min-width: 250px;
+}
