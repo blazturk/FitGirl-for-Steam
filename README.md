@@ -20,6 +20,7 @@ Welcome to the FitGirl for Steam Chrome Extension! This extension enhances your 
 1. **Install the Extension**: Use the steps above to find out how to install the extension.
 1. **Browse Steam**: Navigate to any Steam game page.
 2. **Click the Button**: Look for the "Get on FitGirl Repacks" button below the game description and click it.
+![img1](https://github.com/blazturk/fitgirl-for-steam/assets/160140523/73000994-decb-4452-a514-aebf2bcf9b3b)
 3. **Explore Repacks**: Instantly access FitGirl Repacks for the selected game and enjoy!
 
 ## Support
